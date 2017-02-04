@@ -7,5 +7,6 @@ authors = ["Neil Ashford <ashfordneil0@gmail.com>"]
 name = "pw"
 
 [dependencies]
+clap = "*"
 pwhash = "*"
 rpassword = "*"
